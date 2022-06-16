@@ -82,13 +82,13 @@ plt.legend()
 ```
 
 ## Output:
-![output]()
-![output]()
-![output]()
-![output]()
-![output]()
-![output]()
-![output]()
+![output](https://github.com/Hemapriya-2004/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/main/7a.png)
+![output](https://github.com/Hemapriya-2004/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/main/7b.png)
+![output](https://github.com/Hemapriya-2004/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/main/7c.png)
+![output](https://github.com/Hemapriya-2004/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/main/7d.png)
+![output](https://github.com/Hemapriya-2004/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/main/7e.png)
+![output](https://github.com/Hemapriya-2004/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/main/7f.png)
+![output](https://github.com/Hemapriya-2004/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/main/7g.png)
 
 
 ## Result:
